@@ -1,0 +1,243 @@
+.bod{
+  margin: 0;
+  text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+}
+.speacil{
+  width: 25%;
+  padding-top: 10px;
+}
+.her{
+width: 25%;
+  float: left;
+padding-right: 30px;
+}
+
+.brain{
+
+  width: 25%;
+  float: left;
+padding-right: 30px;
+}
+
+.dia{
+  width: 25%;
+  float: left;
+padding-right: 30px;
+}
+
+.phy{
+  width: 25%;
+  float: left;
+padding-right: 30px;
+}
+.profile{
+  margin: 0;
+
+}
+
+.lines{
+margin-top: 100px;
+  width: 200px;
+
+  height: 100px;
+}
+
+
+
+.pro1{
+
+  width: 700px;
+  height: 150px;
+  text-align: left;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.pro2{
+
+  width:700px;
+  height: 150px;
+
+  text-align: left;
+  text-align: left;
+  line-height: 2;
+
+}
+.pro3{
+
+  width:50%;
+  width:700px;
+  height: 150px;
+  text-align: left;
+
+  line-height: 2;
+
+}
+.pro4{
+
+  width: 50%;
+  width:700px;
+  height: 150px;
+
+  text-align: left;
+
+  line-height: 2;
+
+}
+.home_i{
+
+  width: 100%;
+  
+}
+.contact{
+  padding-top: 50px;
+  text-align: center;
+  background-color: #00a79d;
+
+}
+.phone{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.are{
+padding-left: 30px;
+padding-right: 30px;
+  padding-bottom: 30px;
+}
+.apo{
+  width: 40%;
+
+}
+#ref{
+  padding-top: 30px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.online{
+  text-align: center;
+  padding-top: 30px;
+}
+.bt {
+  background: #18f5e6;
+  background-image: -webkit-linear-gradient(top, #18f5e6, #06756c);
+  background-image: -moz-linear-gradient(top, #18f5e6, #06756c);
+  background-image: -ms-linear-gradient(top, #18f5e6, #06756c);
+  background-image: -o-linear-gradient(top, #18f5e6, #06756c);
+  background-image: linear-gradient(to bottom, #18f5e6, #06756c);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.bt:hover {
+  background: #1aedae;
+  background-image: -webkit-linear-gradient(top, #1aedae, #088f7d);
+  background-image: -moz-linear-gradient(top, #1aedae, #088f7d);
+  background-image: -ms-linear-gradient(top, #1aedae, #088f7d);
+  background-image: -o-linear-gradient(top, #1aedae, #088f7d);
+  background-image: linear-gradient(to bottom, #1aedae, #088f7d);
+  text-decoration: none;
+}
+
+.formm{
+  padding-top: 30px;
+  line-height: 50px;
+  position: relative;
+
+}
+#bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
+
+label{
+  color: #313131;
+  font-size: xx-large;
+}
+.tds{
+  font-size: x-large;
+}
+.butn {
+  background: #11f0c0;
+  background-image: -webkit-linear-gradient(top, #11f0c0, #078272);
+  background-image: -moz-linear-gradient(top, #11f0c0, #078272);
+  background-image: -ms-linear-gradient(top, #11f0c0, #078272);
+  background-image: -o-linear-gradient(top, #11f0c0, #078272);
+  background-image: linear-gradient(to bottom, #11f0c0, #078272);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #f5f7fa;
+  font-size: 30px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #157aed;
+  background-image: -webkit-linear-gradient(top, #157aed, #3498db);
+  background-image: -moz-linear-gradient(top, #157aed, #3498db);
+  background-image: -ms-linear-gradient(top, #157aed, #3498db);
+  background-image: -o-linear-gradient(top, #157aed, #3498db);
+  background-image: linear-gradient(to bottom, #157aed, #3498db);
+  text-decoration: none;
+}
+.vari{
+  font-size: 20px;
+}
+.online{
+  width: 50%;
+}
+#online{
+  background-color: #dff0ea;
+}
+#profile{
+  background-color: #dff0ea;
+}
+.for{
+  color: #414141;
+}
+h1
+{
+  margin: 50px auto 0px auto;
+font-size: 5.625rem;
+color:  #66BFBF;
+font-family:'Libre+Baskerville';
+line-height: 2;
+
+}
+h2{
+
+    font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+  font-weight: normal;
+
+}
+h5{
+
+    font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+
+  font-weight: normal;
+
+}
+p{
+  font-size: medium;
+}
